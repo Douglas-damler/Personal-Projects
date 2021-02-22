@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dulcet</title>
+    <link rel="stylesheet" href="./chore.css">
+</head>
+<body>
+
+    <div class="header">
+        <h1 id="title">Color Game</h1>
+    </div>
+
+    <div class="instructions">
+        <h1>Instructions</h1>
+    </div>
+
+    <div id="instructions-row">
+        <table class="instructions-table">
+
+            <tr>
+                <td class="instructions-number">1</td>
+                <td class="instructions-text">Winning color is generated randomly by the computer</td>
+            </tr>
+
+            <tr>
+                <td class="instructions-number">2</td>
+                <td class="instructions-text">You will always have 3 chances by tapping the three cards</td>
+            </tr>
+
+            <tr>
+                <td class="instructions-number">3</td>
+                <td class="instructions-text">If a color that appears in one of the cards is same as the the computer's, You will win</td>
+            </tr>
+
+            <tr>
+                <td class="instructions-number">4</td>
+                <td class="instructions-text">You can try as many times as possible</td>
+            </tr>
+
+            <tr>
+                <td class="instructions-number">5</td>
+                <td class="instructions-text">Let's now determine the winner. Good Luck and above all have fun</td>
+            </tr>
+        </table>
+    </div>
+
+            <div class="container">
+                <div style="background-color: wheat;" id="flex-item-one">
+
+                </div>
+
+                <div style="background-color: wheat;" id="flex-item-two">
+
+                </div>
+
+                <div style="background-color: wheat;" id="flex-item-three">
+
+                </div>
+
+            </div>
+            <div id="messageBox" class="cheers">
+                Good Luck! <br>
+            </div>
+
+            <div id="dashboard" class="statistics">
+                <h4>Wins</h4>
+                <h4>Losses</h4>
+                <br>
+                <div>
+                    <i id="wins">0</i>
+                </div>
+                
+                <div>
+                    <i id="losses">0</i>
+                </div>
+            </div>
+    <script src="./chore.js"></script>
+</body>
+</html>
