@@ -2,9 +2,9 @@
 This a collection of *personal projects*, you can clone them into your local machine and use for practice.
 
 ## Table of Contents
-* [Color Game.css] (#Color Game.css)
-* [Color Game.html] (#Color Game.html)
-* [Color Game.js] (#Color Game.js)
+* [Color Game.css] (#Color-Game.css)
+* [Color Game.html] (#Color-Game.html)
+* [Color Game.js] (#Color-Game.js)
 * [Credit Card Checker.js] (#Credit Card Checker.js)
 
 ### Set up instructions
