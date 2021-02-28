@@ -5,7 +5,7 @@ This a collection of *personal projects*, you can clone them into your local mac
 * [Color Game.css](#color-game)
 * [Color Game.html](#color-game)
 * [Color Game.js](#color-game.js)
-* [Credit Card Checker.js] (#Credit Card Checker.js)
+* [Credit Card Checker.js](#credit-card-checker.js)
 
 ### Set up instructions
 1. Download the HTML, CSS and  JavaScript files then 
